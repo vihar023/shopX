@@ -526,12 +526,6 @@ http://localhost:8080/actuator/health
 
 ---
 
-## 👨‍💻 Author
-
-**Vihar Patel**
----
-
 ⭐ If you find this project useful, consider giving it a star!
----
 
-⭐ If you find this project useful, consider giving it a star!
+
